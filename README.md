@@ -4,7 +4,7 @@ yii-sphinx-config
 ENGLISH
 -------
 
-Configuration allows you to collect parts of sphinx automatically using the console command. / Yiic shpinx
+Configuration allows you to collect parts of sphinx automatically using the console command ./yiic shpinx
 
 Config is broken into two parts:
 connection;
