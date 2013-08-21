@@ -9,7 +9,7 @@ Config is broken into two parts:
 connection;
 indices;
 Options searchd.
-=================
+
 
 
 RUSIAN
@@ -20,4 +20,4 @@ RUSIAN
 * Подключение; 
 * Индексы; 
 * Параметры searchd.
-=================
+
