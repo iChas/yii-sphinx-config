@@ -2,6 +2,7 @@ yii-sphinx-config
 =================
 
 ENGLISH
+-------
 
 Configuration allows you to collect parts of sphinx automatically using the console command. / Yiic shpinx
 
@@ -13,6 +14,7 @@ Options searchd.
 
 
 RUSIAN
+------
 
 Позволяет собирать конфиг sphinx из частей автоматически с помощью консольной команды ./yiic shpinx  
 
